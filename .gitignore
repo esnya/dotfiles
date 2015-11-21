@@ -1,0 +1,11 @@
+# Ignore All
+/*
+
+# Add .gitignore
+!.gitignore
+
+# Add extensions for .vscode
+!.vscode
+.vscode/extensions/*
+!.vscode/extensions/d
+
