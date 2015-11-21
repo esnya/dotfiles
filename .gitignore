@@ -9,3 +9,11 @@
 .vscode/extensions/*
 !.vscode/extensions/d
 
+# Add settings for .vscode
+!AppData
+AppData/*
+!AppData/Roaming
+AppData/Roaming/*
+!AppData/Roaming/Code
+AppData/Roaming/Code/*
+!AppData/Roaming/Code/User
